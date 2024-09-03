@@ -13,6 +13,7 @@ In this assignment, you will be tasked with creating and deploying a simple Expr
 - [Part 2 - Writing the Server Application](#part-2---writing-the-server-application)
 - [Part 3 - Deploy](#part-3---deploy)
 - [Submit](#submit)
+- [Deployment Link](#deployment-link)
 
 ## Short Responses
 
@@ -59,7 +60,7 @@ You got this!
 
 **Deployment Technical Requirements**
 
-- [ ] Your GitHub page has a link to the deployed server in the About section.
+- [x] Your GitHub page has a link to the deployed server in the About section.
 
 ## Part 1 - Setup
 
@@ -105,3 +106,7 @@ Here is an example of a deployed server: https://github.com/benspector-mls/first
 ## Submit
 
 Submit a link to your GitHub repository on Canvas.
+
+## [Deployment Link](https://eight-0-0-assignment-mekhi-m.onrender.com)
+
+I was not able to add my deployment link to the about section so here it is: https://eight-0-0-assignment-mekhi-m.onrender.com
